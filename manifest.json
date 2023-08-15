@@ -1,0 +1,11 @@
+{
+    "name":"Random Dad Jokes",
+    "version": "1.0.0",
+    "description": "An extension to fetch dad jokes",
+    "manifest_version": 3,
+    "author": "Sean Allen",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Random Dad Jokes"
+    }
+}
